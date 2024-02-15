@@ -2,10 +2,10 @@
 
 I’m a **Front End Web Developer** from Bangladesh 🇧🇩 who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems.
 
-🖥️ Want to know more about me ? [**Check out my Portfolio**](https://github.com/GilaniRabbu).
+🖥️ Want to know more about me ? [**Check out my Portfolio**](https://gilani-rabbu.netlify.app/).
 
 - 🔭 I’m currently working on **Backend**
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **PHP**
 - 💬 Ask me about **Javascript, React or Anything**
 - 📫 How to reach me: [toufiqjilanirabbu7@gmail.com](mailto:toufiqjilanirabbu7@gmail.com)
 - 😄 Pronouns: he/him
@@ -36,17 +36,12 @@ I’m a **Front End Web Developer** from Bangladesh 🇧🇩 who is passionate a
 [![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&labelColor=202020&logo=tailwindcss&logoColor=38BDF8)](#)
 [![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&labelColor=202020&logo=jquery&logoColor=0769AD)](#)
 [![React.js Badge](https://img.shields.io/badge/React.js-61DBFB?style=for-the-badge&labelColor=202020&logo=react&logoColor=61DBFB)](#)
-[![Chart.js Badge](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&labelColor=202020&logo=chart.js&logoColor=FF6384)](#)
-[![Node.js Badge](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)](#)
-[![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-00A35C?style=for-the-badge&labelColor=202020&logo=mongodb&logoColor=00A35C)](#)
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-659BD3?style=for-the-badge&labelColor=202020&logo=c%2B%2B&logoColor=659BD3)](#)
 [![npm Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&labelColor=202020&logo=npm&logoColor=CB3837)](#)
 [![Vite Badge](https://img.shields.io/badge/Vite-A735F2?style=for-the-badge&labelColor=202020&logo=vite&logoColor=F2BE22)](#)
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-22A6F1?style=for-the-badge&labelColor=202020&logo=visualstudio&logoColor=22A6F1)](#)
 [![Markdown Badge](https://img.shields.io/badge/Markdown-61DAFB?style=for-the-badge&labelColor=202020&logo=markdown&logoColor=61DAFB)](#)
 [![Netlify Badge](https://img.shields.io/badge/Netlify-06BFAD?style=for-the-badge&labelColor=202020&logo=netlify&logoColor=06BFAD)](#)
-[![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=202020&logo=postman&logoColor=FF6C37)](#)
 
 ##
 
