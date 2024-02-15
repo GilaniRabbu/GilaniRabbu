@@ -1,10 +1,10 @@
-# Hi I'm Toufiq Gilani Rabbu 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0D1117&random=false&width=500&lines=HI+I'M+TOUFIQ+GILANI+RABBU)](https://github.com/GilaniRabbu)
 
 I’m a **Front End Web Developer** from Bangladesh 🇧🇩 who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems.
 
 🖥️ Want to know more about me ? [**Check out my Portfolio**](https://gilani-rabbu.netlify.app/).
 
-- 🔭 I’m currently working on **Backend**
+<!-- - 🔭 I’m currently working on **Backend** -->
 - 🌱 I’m currently learning **PHP**
 - 💬 Ask me about **Javascript, React or Anything**
 - 📫 How to reach me: [toufiqjilanirabbu7@gmail.com](mailto:toufiqjilanirabbu7@gmail.com)
@@ -40,8 +40,6 @@ I’m a **Front End Web Developer** from Bangladesh 🇧🇩 who is passionate a
 [![npm Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&labelColor=202020&logo=npm&logoColor=CB3837)](#)
 [![Vite Badge](https://img.shields.io/badge/Vite-A735F2?style=for-the-badge&labelColor=202020&logo=vite&logoColor=F2BE22)](#)
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-22A6F1?style=for-the-badge&labelColor=202020&logo=visualstudio&logoColor=22A6F1)](#)
-[![Markdown Badge](https://img.shields.io/badge/Markdown-61DAFB?style=for-the-badge&labelColor=202020&logo=markdown&logoColor=61DAFB)](#)
-[![Netlify Badge](https://img.shields.io/badge/Netlify-06BFAD?style=for-the-badge&labelColor=202020&logo=netlify&logoColor=06BFAD)](#)
 
 ##
 
@@ -52,3 +50,7 @@ I’m a **Front End Web Developer** from Bangladesh 🇧🇩 who is passionate a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilaniRabbu&langs_count=10&theme=react&card_width=450)](https://github.com/GilaniRabbu)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GilaniRabbu&theme=react&card_width=450&show_icons=true)](https://github.com/GilaniRabbu)
+
+[![Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GilaniRabbu&theme=react)](https://github.com/GilaniRabbu)
+
+[![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=GilaniRabbu&custom_title=Gilani's%20GitHub%20Activity%20Graph&theme=react-dark&area=true)](https://github.com/GilaniRabbu)
